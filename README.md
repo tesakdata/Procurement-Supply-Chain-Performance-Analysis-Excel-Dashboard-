@@ -111,7 +111,7 @@ By focusing on supplier management, strategic sourcing, and operational planning
 ---
 
 ## 📸 Dashboard Previews
-https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69e4e8df960f827043b714ec_Screenshot%202026-04-19%20151938.png
+![Supplier Performance Dashboard](https://github.com/tesakdata/Procurement-Supply-Chain-Performance-Analysis-Excel-Dashboard-/blob/main/Supplier%20Performance.png)
 ---
 
 ⭐ Feel free to star this repository if you find the analysis useful!
