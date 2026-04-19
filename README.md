@@ -119,4 +119,4 @@ By focusing on supplier management, strategic sourcing, and operational planning
 
 ---
 
-⭐ Feel free to star this repository if you find the analysis useful!
+
